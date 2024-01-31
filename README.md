@@ -33,11 +33,11 @@ pip install -r requirements.txt pip install -r requirements.txt
 
 2.Follow the instructions and run the cells to:
 
-*Explore the data
-
-*Train the machine learning model
-
-*Launch the Gradio interface for real-time predictions
+   *Explore the data
+      
+   *Train the machine learning model
+      
+   *Launch the Gradio interface for real-time predictions
 
 ## Why ONEAPI
 ![openai](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/78e06ba5-8caa-4e46-b2b2-4c86b996fbda)
