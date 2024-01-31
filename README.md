@@ -4,6 +4,10 @@
 
 This repository contains the code for an Allergic Food Project, focusing on predicting and managing allergic reactions related to certain foods. The system utilizes machine learning, specifically implementing [Specify the algorithm or approach], and takes into account various features such as the individual's allergies, dietary preferences, and location. The implementation includes a user-friendly interface for real-time predictions, enhancing accessibility and usability for potential users.
 
+## Introduction
+Food allergies occur when the immune system reacts abnormally to certain foods, perceiving them as harmful substances. This reaction triggers a range of symptoms that can vary from mild to severe, and in some cases, even life-threatening. Common symptoms include skin rashes, itching, swelling, difficulty breathing, abdominal pain, vomiting, and in severe cases, anaphylaxis—a sudden and severe allergic reaction that requires immediate medical attention.
+
+Food allergies affect millions of people worldwide, with prevalence varying by region and population. In some countries, the incidence of food allergies has been steadily increasing, particularly among children. The most common food allergens include peanuts, tree nuts, shellfish, fish, eggs, milk, soy, and wheat.
 ## Table Of Contents
 Installation:#installation
 
