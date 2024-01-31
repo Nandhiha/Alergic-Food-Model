@@ -47,7 +47,7 @@ The grand idea behind oneAPI is to enable the use of one platform for a range of
 
 ## Model Comparison
 
-We evaluated Five machine learning models:
+We evaluated Six machine learning models:
 
 1.Naive Bayes Accuracy: 0.95
 
