@@ -61,3 +61,8 @@ ased on these results, we chose Naive Bayes as it provided the highest accuracy.
 
 https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/1953db83-347c-4d50-b730-63cc66c48a74
 
+## Output Screenshots
+
+![image_1](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/3c7f0a3f-b876-4bc3-83e8-87e45c690beb)
+
+![Image_2](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/091f4759-e61d-4b6f-808f-76524a557d6b)
