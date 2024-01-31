@@ -8,6 +8,10 @@ This repository contains the code for an Allergic Food Project, focusing on pred
 Food allergies occur when the immune system reacts abnormally to certain foods, perceiving them as harmful substances. This reaction triggers a range of symptoms that can vary from mild to severe, and in some cases, even life-threatening. Common symptoms include skin rashes, itching, swelling, difficulty breathing, abdominal pain, vomiting, and in severe cases, anaphylaxis—a sudden and severe allergic reaction that requires immediate medical attention.
 
 Food allergies affect millions of people worldwide, with prevalence varying by region and population. In some countries, the incidence of food allergies has been steadily increasing, particularly among children. The most common food allergens include peanuts, tree nuts, shellfish, fish, eggs, milk, soy, and wheat.
+
+## Proposed System
+The proposed system aims to develop an "Allergy Food Excluder" using a combination of oneAPI and machine learning (ML) concepts, with integration into Gradio for a user-friendly interface. Initially, the system will collect and preprocess a dataset containing information about various foods, including ingredients, nutritional values, and potential allergens. Through feature engineering, relevant characteristics such as allergen presence and ingredient composition will be extracted. ML algorithms will then be employed to develop a model capable of predicting the safety of a food item for consumption based on its features. Leveraging Intel's oneAPI libraries, particularly oneDAL, will optimize data processing and model training, ensuring efficient utilization of hardware resources across CPUs, GPUs, and accelerators. Gradio will facilitate the creation of a straightforward interface where users can input food items and receive clear feedback regarding their safety, including any allergen warnings. Performance optimization strategies will be implemented to enhance the system's efficiency, including memory optimization techniques to minimize data movement. Rigorous testing and validation will be conducted to ensure the model's accuracy and reliability across various food types and allergens. Once deployed, the system will undergo continuous monitoring and maintenance, with updates and improvements implemented based on user feedback and evolving allergy concerns. In essence, the "Allergy Food Excluder" system aims to provide users with a reliable tool for making informed decisions about food consumption while considering their allergy requirements. Not only allergic food but also people can choose food according to preferences.
+
 ## Table Of Contents
 Installation:#installation
 
@@ -80,3 +84,7 @@ https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/1953db83-347c-4d
 ![image_1](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/3c7f0a3f-b876-4bc3-83e8-87e45c690beb)
 
 ![Image_2](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/091f4759-e61d-4b6f-808f-76524a557d6b)
+
+## Future Scope
+
+The model's potential extends to the pharmaceutical industry, identifying allergens in drugs or chemicals. It enhances safety by recognizing known and unknown allergens, aiding in drug development and labeling. This innovation ensures individuals are informed about potential allergic reactions, fostering a safer and more personalized pharmaceutical experience.
