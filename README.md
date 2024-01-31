@@ -45,3 +45,19 @@ pip install -r requirements.txt pip install -r requirements.txt
 The grand idea behind oneAPI is to enable the use of one platform for a range of different hardware, hence developers would not have to use different languages, tools, and libraries when they code for CPUs and GPUs.
 ![code](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/69aba162-fd95-494b-aad0-59bf83afe8db)
 
+## Model Comparison
+
+We evaluated Five machine learning models:
+
+1.Naive Bayes Accuracy: 0.95
+2.Decision Tree Accuracy: 0.95
+3.Random Forest Accuracy: 0.95
+4.SVM Accuracy: 0.95
+5.KNN Accuracy: 0.95
+
+ased on these results, we chose Naive Bayes as it provided the highest accuracy.
+
+## Demo Video
+
+https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/1953db83-347c-4d50-b730-63cc66c48a74
+
