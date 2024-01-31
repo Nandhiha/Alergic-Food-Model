@@ -43,6 +43,9 @@ pip install -r requirements.txt pip install -r requirements.txt
       
    *Launch the Gradio interface for real-time predictions
 
+## OneAPI Optimization
+Optimizing machine learning models with Intel's oneAPI involves leveraging optimized libraries like oneDAL for efficient deep learning operations. Implementing DPC++ programming model taps into parallel processing across CPUs, GPUs, and accelerators. Offloading tasks to GPUs via oneAPI leads to speed improvements. Prioritize memory optimization, including data layout, minimizing movement, and cache-friendly structures. Explore quantization and model pruning for precision and computational efficiency. Use profiling tools to identify bottlenecks, and stay updated with Intel's support for guidance.
+
 ## Why ONEAPI
 ![openai](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/78e06ba5-8caa-4e46-b2b2-4c86b996fbda)
 
