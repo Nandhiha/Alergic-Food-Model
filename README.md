@@ -75,6 +75,11 @@ We evaluated Six machine learning models:
 
 Accuracies of different models are actually similar so we chose naive bayes because it gives output in less time.
 
+## Flowchart
+
+![flowchart](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/8a967a4f-accd-434d-9e4c-32de3fdb86e2)
+
+
 ## Demo Video
 
 https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/1953db83-347c-4d50-b730-63cc66c48a74
