@@ -21,4 +21,8 @@ Output Screenshots: #output-screenshots
 
 1. Clone the repository:
    
-bash git clone https://github.com/your-username/allergic-food-project.git cd allergic-food-project pip install -r requirements.txt pip install -r requirements.txt
+bash git clone https://github.com/your-username/allergic-food-project.git cd allergic-food-project 
+
+2. Installation Dependencies:
+
+pip install -r requirements.txt pip install -r requirements.txt
