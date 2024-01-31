@@ -43,7 +43,8 @@ pip install -r requirements.txt pip install -r requirements.txt
 ![openai](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/78e06ba5-8caa-4e46-b2b2-4c86b996fbda)
 
 The grand idea behind oneAPI is to enable the use of one platform for a range of different hardware, hence developers would not have to use different languages, tools, and libraries when they code for CPUs and GPUs.
-![code](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/69aba162-fd95-494b-aad0-59bf83afe8db)
+![Screenshot (380)](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/04e3a9b4-ec80-48ad-b940-34b62bc6e290)
+
 
 ## Model Comparison
 
