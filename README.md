@@ -41,3 +41,5 @@ pip install -r requirements.txt pip install -r requirements.txt
 
 ## Why ONEAPI
 ![openai](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/78e06ba5-8caa-4e46-b2b2-4c86b996fbda)
+
+The grand idea behind oneAPI is to enable the use of one platform for a range of different hardware, hence developers would not have to use different languages, tools, and libraries when they code for CPUs and GPUs.
