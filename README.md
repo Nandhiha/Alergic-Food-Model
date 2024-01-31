@@ -12,6 +12,10 @@ Food allergies affect millions of people worldwide, with prevalence varying by r
 ## Proposed System
 The proposed system aims to develop an "Allergy Food Excluder" using a combination of oneAPI and machine learning (ML) concepts, with integration into Gradio for a user-friendly interface. Initially, the system will collect and preprocess a dataset containing information about various foods, including ingredients, nutritional values, and potential allergens. Through feature engineering, relevant characteristics such as allergen presence and ingredient composition will be extracted. ML algorithms will then be employed to develop a model capable of predicting the safety of a food item for consumption based on its features. Leveraging Intel's oneAPI libraries, particularly oneDAL, will optimize data processing and model training, ensuring efficient utilization of hardware resources across CPUs, GPUs, and accelerators. Gradio will facilitate the creation of a straightforward interface where users can input food items and receive clear feedback regarding their safety, including any allergen warnings. Performance optimization strategies will be implemented to enhance the system's efficiency, including memory optimization techniques to minimize data movement. Rigorous testing and validation will be conducted to ensure the model's accuracy and reliability across various food types and allergens. Once deployed, the system will undergo continuous monitoring and maintenance, with updates and improvements implemented based on user feedback and evolving allergy concerns. In essence, the "Allergy Food Excluder" system aims to provide users with a reliable tool for making informed decisions about food consumption while considering their allergy requirements. Not only allergic food but also people can choose food according to preferences.
 
+## Flowchart
+
+![flowchart](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/8a967a4f-accd-434d-9e4c-32de3fdb86e2)
+
 ## Table Of Contents
 Installation:#installation
 
@@ -74,11 +78,6 @@ We evaluated Six machine learning models:
 6.Logical regression Accuracy: 85 
 
 Accuracies of different models are actually similar so we chose naive bayes because it gives output in less time.
-
-## Flowchart
-
-![flowchart](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/8a967a4f-accd-434d-9e4c-32de3fdb86e2)
-
 
 ## Demo Video
 
