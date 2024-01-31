@@ -26,3 +26,17 @@ bash git clone https://github.com/your-username/allergic-food-project.git cd all
 2. Installation Dependencies:
 
 pip install -r requirements.txt pip install -r requirements.txt
+
+## Usage
+
+1.Open the Jupyter notebook Final_Intel_prj.ipynb.
+
+2.Follow the instructions and run the cells to:
+
+*Explore the data
+
+*Train the machine learning model
+
+*Launch the Gradio interface for real-time predictions
+
+## Why ONEAPI
