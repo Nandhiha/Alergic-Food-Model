@@ -40,3 +40,4 @@ pip install -r requirements.txt pip install -r requirements.txt
 *Launch the Gradio interface for real-time predictions
 
 ## Why ONEAPI
+![openai](https://github.com/Nandhiha/Alergic-Food-Model/assets/116743485/78e06ba5-8caa-4e46-b2b2-4c86b996fbda)
