@@ -50,12 +50,18 @@ The grand idea behind oneAPI is to enable the use of one platform for a range of
 We evaluated Five machine learning models:
 
 1.Naive Bayes Accuracy: 0.95
+
 2.Decision Tree Accuracy: 0.95
+
 3.Random Forest Accuracy: 0.95
+
 4.SVM Accuracy: 0.95
+
 5.KNN Accuracy: 0.95
 
-ased on these results, we chose Naive Bayes as it provided the highest accuracy.
+6.Logical regression Accuracy: 85 
+
+Accuracies of different models are actually similar so we chose naive bayes because it gives output in less time.
 
 ## Demo Video
 
