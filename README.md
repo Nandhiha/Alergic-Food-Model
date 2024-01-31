@@ -6,8 +6,11 @@ This repository contains the code for an Allergic Food Project, focusing on pred
 
 ## Table Of Contents
 Installation:#installation
+
 Usage:#usage
+
 Why ONEAPI:#why ONEAPI
+
 Model Comparison:   #model-comparison
 
 Demo: #demo
