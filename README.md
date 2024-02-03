@@ -75,7 +75,7 @@ We evaluated Six machine learning models:
 
 5.KNN Accuracy: 0.95
 
-6.Logical regression Accuracy: 85 
+6.Logical regression Accuracy: 0.85 
 
 Accuracies of different models are actually similar so we chose naive bayes because it gives output in less time.
 
